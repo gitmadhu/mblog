@@ -4,6 +4,9 @@ sidebar_position: 1
 
 # Tutorial Intro
 
+## My books
+[Book 1](/mreact)
+
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
