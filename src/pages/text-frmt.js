@@ -5,7 +5,7 @@ import Layout from '@theme/Layout';
 
 export default function MyReactPage() {
   
-  const [itemName, setItemName] = useState('Subs');
+  const [itemName, setItemName] = useState('subs');
   const [source, setSource] = useState('{ \n  "nameTest":"hello"\n}');
   const [target, setTarget] = useState('');
 
