@@ -5,7 +5,9 @@ sidebar_position: 1
 # Tutorial Intro
 
 ## My books
-[Book 1](/mreact)
+# [Book 1](/mreact)
+
+# [Text Format](/text-frmt)
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
