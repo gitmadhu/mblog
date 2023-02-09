@@ -6,7 +6,7 @@ import Layout from '@theme/Layout';
 export default function MyReactPage() {
   
   const [itemName, setItemName] = useState('Subs');
-  const [source, setSource] = useState('{ "nameTest":"hello"}');
+  const [source, setSource] = useState('{ \n  "nameTest":"hello"\n}');
   const [target, setTarget] = useState('');
 
 
@@ -14,19 +14,24 @@ export default function MyReactPage() {
     if(source){
     const sourceText = JSON.parse(source);
     const result = getDataToItem(sourceText);
-
-    if(result && result.length > 0){
-      setTarget(result.join("\n"))
+    if(result && result?.dataToItem.length > 0){
+      let toDb = result.dataToItem.join("\n")
+      let toData = result.itemToData.join("\n")
+      setTarget(`${toDb}\n\n${toData}`)
     }
     }
-    
   }
 
   const getDataToItem = (data) => {
     if(data ){
-      let result = [];
-      Object.keys(data).forEach(key => result.push(`${itemName}Item.${getCapitalChars(key)} = ${itemName}Data.${key}`) )
-      return result;
+      let dataToItem = [];
+      let itemToData = [];
+      Object.keys(data).forEach(key => {
+        dataToItem.push(`${itemName}Item.${getCapitalChars(key)} = ${itemName}Data.${key}`);
+        itemToData.push(`${itemName}Data.${key} = ${itemName}Item.${getCapitalChars(key)}`)
+        }
+      );
+      return {dataToItem,itemToData} ;
     }
   }
 
@@ -63,11 +68,11 @@ export default function MyReactPage() {
   return (
     <Layout>
       <h1>Classic editor</h1>
-      <h2> <button onClick={handleClick}>transform text</button></h2>
+      <h2> <button onClick={handleClick}>data To Item</button></h2>
       <h2> Item name: <input onClick={handleClick} value={itemName} onChange={e => setItemName(e.target.value)} /></h2>
 
-      <textarea name="source" id="source" value={source} rows="15" cols="50" onChange={e => setSource(e.target.value)} />
-      <textarea name="target" id="target" value={target} rows="15" cols="50"/>
+      <textarea name="source" id="source" value={source} rows="20" cols="50" onChange={e => setSource(e.target.value)} />
+      <textarea name="target" id="target" value={target} rows="20" cols="50"/>
     </Layout>
   );
 }
