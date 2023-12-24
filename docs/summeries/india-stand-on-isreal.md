@@ -1,12 +1,13 @@
-# one
+# India stand on Isreal and palastine conflict
+## one
 - source: https://www.youtube.com/watch?v=PBx0143Wxt4
   Today the conflict between Israel and Palestine is a matter of great importance.
 what's going to happen next what's ahead of the road that is something we certainly don't know yet
-# two
+## two
 But what is India's stand in this issue, who should India support, to conclude that we should go back to when it all started
 For India we should analyze India's relationship with Israel and Palestine simultaneously, and see who ditched us and who supported us when we
 Indians were in need.
-# three
+## three
 As soon as Hamas attacked Israel on 7th October Indian prime minister Mr Modi tweeted in
 support of Israel and it's a well-known fact that Israel is one of the biggest exporters of military equipments in India 
 and #(hashtag) #IndiaStandsWithIsrael has been trending for so long,
@@ -19,7 +20,7 @@ fighting with each other demanding their own country.
 
 The United Nations intervened in the issue and partition the country into two and there was a strong
 opposition for this from India since it was divided on the basis of religious terms,
-# four
+## four
 But the irony is India too was divided on the basis of religion on top
 of that Mahatma Gandhi believed that the Arabs were the rightful occupants of
 Palestine he said in 1938 Palestine belongs to the Arab in the same sense that England belongs to the English or
@@ -33,7 +34,7 @@ javahar neru accepted to recognize Israel as a country and we were one of the Lo
 But even then India was not ready to establish any kind of diplomatic relationship with Israel on the other
 hand India was the first non-arab country to recognize the Palestine Liberation Organization that is PLO in
 1974 and when Palestine was formed as a country in 1988 India immediately recognized its formation.
-# five
+## five
 So back in that time India strongly supported Palestine over Israel why so because India wanted
 to show its support to the Arabs and not hurt their sentiments, then how did things change later what exactly happened.
  
@@ -44,7 +45,7 @@ granted permission to open its Consulate in Bombay just for the immigration of I
 Nehru proposed inviting Israel as a member but rest of the members disagreed on that
  now comes the important part in 1962 the indo-china war happened and the Arab Nations chose
 to stay neutral instead of supporting us 
-# six
+## six
 Then during the Indo Pakistani war in 1965 and 1971 India was in a great need of support we badly needed an ally but
 the Arab Nation chose to stand with Pakistan and we all know why but Israel despite not having any kind of
 diplomatic relations with India at that time supported us and supplied with
@@ -56,7 +57,7 @@ India and abashedly supported Palestine and refused to have any sort of official
 relations with Israel only in 1992 44 years after the formation of Israel
 India finally established a complete diplomatic relations with Israel by
 opening its Embassy in the city of deiv since then the two countries met eye to
-# seven
+## seven
 eye on many occasions but even then India never ditch Palestine and firmly stood by them it has consistently supported the legitimate right of Palestine to have their own country India stands on the Israel Palestine
 issue has always been in line with the United Nations resolutions in 199 9 the
 Cargill War happened between India and Pakistan and that was a very crucial
@@ -67,7 +68,7 @@ support to Palestine India gifted a costly land in new delhi's elate area
 for the construction of Palestinian Embassy fast forward to 2014 during the
 Israel Gaza conflict India helped both the parties responsible for igniting
 violence and asked Israel to stop the disproportionate use of for in Gaza
-
+## eight
 it may seem like India picked a side and supported Palestine over Israel but during the rajas SAA session a former external affairs minister sushma saraj
 made it clear that India has friendly relation with both Israel and Palestine when the United Nations Human Rights Council report accusing Israel of war crimes was put out to vote five
 countries refused to vote so gladly India was one of them since Prime
@@ -78,38 +79,22 @@ Benjamin and they both went for the Beach Walk Prime Minister Modi visited
 the war memorial Jewish Museum and signed multiple M with Israel but he did
 not visit palistine then to add fuel to the fire Israeli Prime Minister visited
 India in 2018 and flly kides with Prime Minister Modi but as usual India wants
-to maintain its balance So within a
-month in February 2018 Prime Minister
-Modi visited West Bank the Palestinian
-land and there he was awarded the title
-of the grand caller of Palestine during
-this visit Prime Minister Modi made an
-agreement to set up an India Palestine
-super Speciality Hospital in Palestine
-for $0 million us and a new printing
-press for $5 million us now coming to
-the current day scenario when Hamas
-attacked Israel India stood with Israel
-and said Israel has all the rights to
-defend itself and that was indeed a very
-bold step and when an hospital was
-bombed in Kasa which killed around 500
-people Prime Minister Modi is one of the
-few who voiced out immediately he
-tweeted deeply shocked at the tragic
-loss of lives at the alh Hal Hospital in
-Gaza a heartfelt condolences to the
-families of the victims and our prayers
-for speedy recovery of those injured
-civilian casualties and the ongoing
-conflict are a matter of serious and
-continuing concern those involved should
-be held responsible on one hand India
-supports Israel's right to defend itself
-on the other hand it continues to send
-humanitarian assistance to the people of
-Gaza why so why India refuses to take a
-stand at this crucial time why India
+to maintain its balance So within a month in February 2018 Prime Minister
+Modi visited West Bank the Palestinian land and there he was awarded the title
+of the grand caller of Palestine during this visit Prime Minister Modi made an
+agreement to set up an India Palestine super Speciality Hospital in Palestine
+for $0 million us 
+## nine
+and a new printing
+press for $5 million us now coming to the current day scenario when Hamas
+attacked Israel India stood with Israel and said Israel has all the rights to
+defend itself and that was indeed a very bold step and when an hospital was
+bombed in Kasa which killed around 500 people Prime Minister Modi is one of the few who voiced out immediately he tweeted deeply shocked at the tragic
+loss of lives at the alh Hal Hospital in Gaza a heartfelt condolences to the
+families of the victims and our prayers for speedy recovery of those injured
+civilian casualties and the ongoing conflict are a matter of serious and
+continuing concern those involved should be held responsible on one hand India
+supports Israel's right to defend itself on the other hand it continues to send humanitarian assistance to the people of Gaza why so why India refuses to take a stand at this crucial time why India
 still wants to maintain its balance
 between Israel and Palestine because
 India is in a need to maintain good
@@ -166,6 +151,7 @@ million us at the opposite side India's
 trade with Saudi Arabia reached an
 alltime high of $
 52.75 million in the financial year 2023
+## ten
 now India is the second largest trading
 partner of Saudi Arabia and let's not
 forget India's trade with the Arab world
